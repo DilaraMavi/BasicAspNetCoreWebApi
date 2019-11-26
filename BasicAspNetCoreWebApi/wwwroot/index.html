@@ -1,0 +1,26 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Users</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/d3js/5.12.0/d3.min.js"></script>
+
+    <script>
+        $(function () {
+            $("#btnGetData").click(function () {
+                $.ajax({
+                    type: "Get",
+                    url: "https://localhost:44351/api/users",
+                    success: function (response) {
+                        console.log(response)
+                    }
+                });
+            });
+        });
+    </script>
+</head>
+<body>
+    <h1>Users</h1>
+    <a id="btnGetData">Get the Data</a>
+</body>
+</html>

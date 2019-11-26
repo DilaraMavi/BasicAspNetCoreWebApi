@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\BasicAspNetCoreWebApi\BasicAspNetCoreWebApi\bin\Debug\netcoreapp2.2\BasicAspNetCoreWebApi.deps.json
+C:\Users\HP\Desktop\BasicAspNetCoreWebApi\BasicAspNetCoreWebApi\bin\Debug\netcoreapp2.2\BasicAspNetCoreWebApi.runtimeconfig.json
+C:\Users\HP\Desktop\BasicAspNetCoreWebApi\BasicAspNetCoreWebApi\bin\Debug\netcoreapp2.2\BasicAspNetCoreWebApi.runtimeconfig.dev.json
+C:\Users\HP\Desktop\BasicAspNetCoreWebApi\BasicAspNetCoreWebApi\bin\Debug\netcoreapp2.2\BasicAspNetCoreWebApi.dll
+C:\Users\HP\Desktop\BasicAspNetCoreWebApi\BasicAspNetCoreWebApi\bin\Debug\netcoreapp2.2\BasicAspNetCoreWebApi.pdb
+C:\Users\HP\Desktop\BasicAspNetCoreWebApi\BasicAspNetCoreWebApi\obj\Debug\netcoreapp2.2\BasicAspNetCoreWebApi.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\BasicAspNetCoreWebApi\BasicAspNetCoreWebApi\obj\Debug\netcoreapp2.2\BasicAspNetCoreWebApi.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\BasicAspNetCoreWebApi\BasicAspNetCoreWebApi\obj\Debug\netcoreapp2.2\BasicAspNetCoreWebApi.RazorAssemblyInfo.cache
+C:\Users\HP\Desktop\BasicAspNetCoreWebApi\BasicAspNetCoreWebApi\obj\Debug\netcoreapp2.2\BasicAspNetCoreWebApi.RazorAssemblyInfo.cs
+C:\Users\HP\Desktop\BasicAspNetCoreWebApi\BasicAspNetCoreWebApi\obj\Debug\netcoreapp2.2\BasicAspNetCoreWebApi.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\BasicAspNetCoreWebApi\BasicAspNetCoreWebApi\obj\Debug\netcoreapp2.2\BasicAspNetCoreWebApi.AssemblyInfo.cs
+C:\Users\HP\Desktop\BasicAspNetCoreWebApi\BasicAspNetCoreWebApi\obj\Debug\netcoreapp2.2\BasicAspNetCoreWebApi.RazorTargetAssemblyInfo.cache
+C:\Users\HP\Desktop\BasicAspNetCoreWebApi\BasicAspNetCoreWebApi\obj\Debug\netcoreapp2.2\BasicAspNetCoreWebApi.dll
+C:\Users\HP\Desktop\BasicAspNetCoreWebApi\BasicAspNetCoreWebApi\obj\Debug\netcoreapp2.2\BasicAspNetCoreWebApi.pdb
